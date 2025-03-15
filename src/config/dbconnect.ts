@@ -1,6 +1,6 @@
 import mongoose from 'mongoose'
 
-const DATABASE_URI = "mongodb+srv://Ram:7spze2dy9n@vasusharrmaa.4itmd.mongodb.net/todos"
+const DATABASE_URI = "mongodb+srv://Ram:asdfghkl@vasusharrmaa.4itmd.mongodb.net/todos"
 
 const dbconnect = async (): Promise<void> => {
 
